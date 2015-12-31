@@ -1,0 +1,13 @@
+﻿<ProjectState>
+  <Version>1.0</Version>
+  <FileID>4e3a19e3-404c-4394-99ce-c68d81116e73</FileID>
+  <OpenFolders />
+  <OpenFiles>
+    <File>Startup.pss</File>
+    <File>Globals.ps1</File>
+    <File>Get-PictureboxMidPoint.ps1</File>
+    <File>Get-TextMidPoint.ps1</File>
+    <File>Get-TextPosition.ps1</File>
+    <File>MainForm.psf</File>
+  </OpenFiles>
+</ProjectState>

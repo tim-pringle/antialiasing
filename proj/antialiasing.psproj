@@ -1,0 +1,14 @@
+﻿<Project>
+  <Version>1.1</Version>
+  <FileID>4e3a19e3-404c-4394-99ce-c68d81116e73</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders />
+  <Files>
+    <File ReferenceName="" Build="0">Startup.pss</File>
+    <File ReferenceName="Call-MainForm_psf" Build="0">MainForm.psf</File>
+    <File ReferenceName="Call-Global_ps1" Build="0" CommandExtension="True">Globals.ps1</File>
+    <File ReferenceName="Call-Get-PictureboxMidPoint_ps1" Build="0" CommandExtension="True">Get-PictureboxMidPoint.ps1</File>
+    <File ReferenceName="Call-Get-TextMidPoint_ps1" Build="0" CommandExtension="True">Get-TextMidPoint.ps1</File>
+    <File ReferenceName="Call-Get-TextPosition_ps1" Build="0" CommandExtension="True">Get-TextPosition.ps1</File>
+  </Files>
+</Project>
